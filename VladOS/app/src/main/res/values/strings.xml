@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VladOS</string>
+    <string name="str0">0</string>
+    <string name="str1">1</string>
+    <string name="str2">2</string>
+    <string name="str3">3</string>
+    <string name="str4">4</string>
+    <string name="str5">5</string>
+    <string name="str6">6</string>
+    <string name="str7">7</string>
+    <string name="str8">8</string>
+    <string name="str9">9</string>
+    <string name="strDivision">/</string>
+    <string name="strMultiplication">*</string>
+    <string name="strSubstraction">-</string>
+    <string name="strAddition">+</string>
+    <string name="strDot">.</string>
+    <string name="strC">c</string>
+    <string name="strEven">=</string>
+    <string name="strBackspace">B</string>
+    <string name="strAc">AC</string>
+</resources>
